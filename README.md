@@ -18,7 +18,6 @@
 #### 相关概略
 因为此内容的[gh Wiki](https://github.com/loremwalker/ss/wiki)列表已经提到tor browser就有必要提下meek网桥与暗网，顺带着也把墙与被墙之间的技术原理写进去
 
-
 * [51cto：GFW的工作原理与封锁技术和部分解决方法](http://blog.51cto.com/xwxhvip/1939675)
 * [segmentfault：科学上网原理](https://segmentfault.com/a/1190000011485579)
 * [知乎：VPN和Sock5代理的区别？](https://www.zhihu.com/question/21211024)
@@ -43,8 +42,8 @@
 [连接互联网教程集合](https://www.youtube.com/playlist?list=PLaqijSgvuFAGMRwaClk8BeUHejFq49A65)
 
 #### 注意事项
-在下载服务器搭建教程之前，请搜索下visa信用卡申请条件，填写visa信用卡时会暂时扣除1美元，已验证该卡是否有效，所以生成器方案已不可行，再阅读有官方背景所代微软运营的Azure云服务对翻墙的整改；如今相关管制越来越严重，所以建议还是备份几篇文章较好，了解相关知识；   
-只知道购买vpn或sock5代理服务而上互联网还以“智商”、“愚民”等字眼来论调来嘲讽墙内的人，那真是太肤浅了！！！
+在下载服务器搭建教程之前，请搜索下visa信用卡申请条件，填写visa信用卡时会暂时扣除1美元，已验证该卡是否有效，所以生成器方案已不可行，再阅读有官方背景所代微软运营的Azure云服务对翻墙的整改；如今相关管制越来越严重，所以建议还是备份几篇文章较好，了解相关知识；     
+自由的确需要成本，有好心人或是盈利企业、组织、个人以及别有用心的机构提供的代理服务器或是VPN从而可以免费连接互联网，但如果仅仅只知道购买vpn或sock5代理服务而上互联网还以“智商”、“愚民”等字眼来论调来嘲讽墙内的人，那真是太肤浅了！！！
 
 <!--![北京大学内部vpn警告](https://s1.ax2x.com/2018/03/10/EBrN6.png)-->
 <!--放火点灯的事[，](https://github.com/loremwalker/WebSiteUseful/wiki/%E8%AF%B4%E8%AF%B4)涉及到一些领域还是避不开的-->
